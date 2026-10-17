@@ -1,0 +1,9 @@
+{
+  "type": "client-csharp",
+  "require": {
+    "sdkfabric/slack": {
+      "target": "./src/SdkFabric.Slack",
+      "namespace": "SdkFabric.Slack"
+    }
+  }
+}
