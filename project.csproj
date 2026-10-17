@@ -10,7 +10,7 @@
     <RepositoryUrl>https://github.com/sdk-fabric/slack-csharp</RepositoryUrl>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>sdkfabric-twilio</AssemblyName>
+    <AssemblyName>sdkfabric-slack</AssemblyName>
     <PackageProjectUrl>https://sdk-fabric.org</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/sdk-fabric/slack-csharp/blob/main/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>

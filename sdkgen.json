@@ -1,7 +1,7 @@
 {
   "type": "client-csharp",
   "require": {
-    "sdkfabric/twilio": {
+    "sdkfabric/slack": {
       "target": "./src/SdkFabric.Slack",
       "namespace": "SdkFabric.Slack"
     }
