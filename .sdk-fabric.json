@@ -1,0 +1,7 @@
+{
+  "namespace": "SdkFabric.Slack",
+  "company": "Apioo",
+  "description": "Slack C# SDK managed by SDK Fabric",
+  "copyright": "Christoph Kappestein",
+  "website": "https://sdk-fabric.org"
+}
